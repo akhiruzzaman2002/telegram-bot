@@ -4,4 +4,4 @@
 pip install -r requirements.txt
 
 # Run your bot
-python3 bot.py
+python3 telegram_super_bot.py
