@@ -28,7 +28,7 @@ from telegram.ext import (
 )
 
 # ---------------- CONFIG ----------------
-BOT_TOKEN = os.getenv("TELEGRAM_TOKEN", "123456789:MY_BOT_TOKEN")
+BOT_TOKEN = os.getenv("TELEGRAM_TOKEN", "7948273306:AAGY2ri4iKlYxzuVVnKl-5_zXoh7_QKL-fE")
 MONETAG_LINK = "https://otieu.com/4/9875089"
 REMOVE_BG_API = os.getenv("REMOVE_BG_API", "YOUR_REMOVE_BG_API_KEY")
 TMP_DIR = tempfile.gettempdir()
