@@ -42,7 +42,7 @@ from PIL import Image
 
 # ---------- CONFIG ----------
 # Put your bot token in environment variable TELEGRAM_TOKEN (recommended)
-BOT_TOKEN = os.getenv("TELEGRAM_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("TELEGRAM_TOKEN", "7948273306:AAGY2ri4iKlYxzuVVnKl-5_zXoh7_QKL-fE")
 
 # Monetag direct link to attach to buttons
 MONETAG_LINK = "https://otieu.com/4/9875089"
@@ -365,7 +365,7 @@ async def photo_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # ---------- MAIN ----------
 def main():
-    if BOT_TOKEN is None or BOT_TOKEN == "" or BOT_TOKEN == "YOUR_BOT_TOKEN_HERE":
+    if BOT_TOKEN is None or BOT_TOKEN == "" or BOT_TOKEN == "7948273306:AAGY2ri4iKlYxzuVVnKl-5_zXoh7_QKL-fE":
         print("Error: Set TELEGRAM_TOKEN environment variable or BOT_TOKEN in code.")
         return
     app = Application.builder().token(BOT_TOKEN).build()
