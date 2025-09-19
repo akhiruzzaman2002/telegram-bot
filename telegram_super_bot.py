@@ -48,7 +48,7 @@ BOT_TOKEN = os.getenv("TELEGRAM_TOKEN", "7948273306:AAGY2ri4iKlYxzuVVnKl-5_zXoh7
 MONETAG_LINK = "https://otieu.com/4/9875089"
 
 # Remove.bg API key (set as env var REMOVE_BG_API or paste here for testing)
-REMOVE_BG_API = os.getenv("REMOVE_BG_API", "YOUR_REMOVE_BG_API_KEY")
+REMOVE_BG_API = os.getenv("REMOVE_BG_API", "8Qe4qVkbMJ887hTrVAwuphiX")
 
 # file.io upload endpoint (for temporary file hosting)
 FILEIO_ENDPOINT = "https://file.io"
