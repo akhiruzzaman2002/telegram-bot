@@ -1,7 +1,6 @@
 #!/bin/bash
-
-# Install all dependencies
+echo "Installing dependencies..."
 pip install -r requirements.txt
 
-# Run your bot
-python3 telegram_super_bot.py
+echo "Starting bot..."
+python super_bot.py
