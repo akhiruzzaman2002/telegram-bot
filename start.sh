@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "🚀 Installing dependencies..."
 pip install -r requirements.txt
-echo "🤖 Starting lite_bot.py ..."
-python lite_bot.py
+
+echo "🤖 Starting bot..."
+python super_bot.py
