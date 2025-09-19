@@ -1,6 +1,6 @@
-python-telegram-bot==20.3
-requests==2.32.3
-Pillow==10.2.0
-httpx==0.24.1
-certifi==2025.8.3
+python-telegram-bot==20.7
+Pillow==10.3.0
 rembg==2.0.57
+requests==2.31.0
+python-dotenv==1.0.1
+yt-dlp==2025.1.26
