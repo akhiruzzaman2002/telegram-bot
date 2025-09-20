@@ -30,7 +30,7 @@ from telegram.ext import (
 )
 
 # ---------------- CONFIG ----------------
-BOT_TOKEN = os.getenv("TELEGRAM_TOKEN")  # Hosting এ TELEGRAM_TOKEN সেট করুন
+BOT_TOKEN = os.getenv("7948273306:AAGY2ri4iKlYxzuVVnKl-5_zXoh7_QKL-fE")  # Hosting এ TELEGRAM_TOKEN সেট করুন
 if not BOT_TOKEN:
     raise ValueError("⚠️ TELEGRAM_TOKEN not found. Please set it in environment variables.")
 
