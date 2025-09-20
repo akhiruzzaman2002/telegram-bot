@@ -1,6 +1,6 @@
-python-telegram-bot==20.7
-Pillow==10.3.0
-rembg==2.0.57
-requests==2.31.0
-yt-dlp==2025.1.15
-python-dotenv==1.0.1
+python-telegram-bot==20.6
+pillow
+rembg
+yt-dlp
+requests
+python-dotenv
