@@ -1,6 +1,5 @@
-python-telegram-bot==20.6
-pillow
+python-telegram-bot==20.3
+Pillow
 rembg
-yt-dlp
 requests
 python-dotenv
