@@ -30,7 +30,7 @@ from telegram.ext import (
 )
 
 # ---------------- CONFIG ----------------
-BOT_TOKEN = os.getenv("TELEGRAM_TOKEN", "YOUR_BOT_TOKEN_HERE")  # তোমার BotFather টোকেন এখানে দাও
+BOT_TOKEN = os.getenv("TELEGRAM_TOKEN", "7948273306:AAGY2ri4iKlYxzuVVnKl-5_zXoh7_QKL-fE")  # তোমার BotFather টোকেন এখানে দাও
 MONETAG_LINK = "https://otieu.com/4/9875089"
 TMP_DIR = tempfile.gettempdir()
 FILEIO_ENDPOINT = "https://file.io"
@@ -392,3 +392,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
