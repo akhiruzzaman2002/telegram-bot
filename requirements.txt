@@ -3,4 +3,4 @@ Pillow
 rembg
 yt-dlp
 requests
-onnxruntime
+python-dotenv
