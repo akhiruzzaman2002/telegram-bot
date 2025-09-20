@@ -31,7 +31,7 @@ from telegram.ext import (
 )
 
 # ---------------- CONFIG ----------------
-BOT_TOKEN = os.getenv("TELEGRAM_TOKEN", "YOUR_REAL_BOT_TOKEN")  # এখানে নিজের টোকেন বসাও
+BOT_TOKEN = os.getenv("TELEGRAM_TOKEN", "7948273306:AAGY2ri4iKlYxzuVVnKl-5_zXoh7_QKL-fE")  # এখানে নিজের টোকেন বসাও
 MONETAG_LINK = "https://otieu.com/4/9875089"
 TMP_DIR = tempfile.gettempdir()
 FILEIO_ENDPOINT = "https://file.io"
