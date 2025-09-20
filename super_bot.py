@@ -1,4 +1,4 @@
-  #!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Final Super Telegram Bot (Temp Gmail + Temp Number + BG Tools + Video + Resize)
 """
@@ -164,4 +164,3 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # (callback_handler, inbox, otp, resize, photo_handler, text_handler সব একই থাকবে,
 # শুধু rembg এর জায়গায় safe_remove ব্যবহার করবো।)
-    
